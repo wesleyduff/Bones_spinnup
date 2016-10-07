@@ -1,0 +1,27 @@
+{
+  "name": "Node.js and Express.js File Uploader",
+  "description": "Demo of a file uploader",
+  "main": "",
+  "authors": [
+    "Wes Duff <speuides@wesduff.com> (http://wesduff.com)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "file",
+    "upload",
+    "express",
+    "node"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~15.3.2"
+  }
+}
