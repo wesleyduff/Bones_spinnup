@@ -1,17 +1,17 @@
-# Node JS : Express.js : Swig.js - File Uploader : Demo
+# Node JS : Express.js : Swig.js - Bones App
 
-This code is an example of using these Node frameworks along with some middleware to get a file uploaded to your server and display that image on the server.
+This code a base code repo for spining up a base prototype or full app from the ground up.
 
 ### Version
 1.0.0
 
 ### Tech
 
-File Uploaded uses a number of open source projects to work properly:
+This is the best way to start off with a prototype or base code. Get up and running with a working "/" and "/home" route with express.js using gulp to run the server.
 
-* express.js
-* swig.js
-* fs.js (part of node.js) // for file processing
+* express.js : Service Framework
+* swig.js : HTML templating not Jade
+* gulp : front-end build scripts
 
 ### Installation for Demo:
 
@@ -29,7 +29,4 @@ License
 ----
 
 MIT
-
-
-**Free Software, Hell Yeah!**
 
